@@ -5,7 +5,7 @@
         <groupId>org.jenkins-ci.plugins</groupId>
         <artifactId>plugin</artifactId>
         <version>3.4</version>
-        <relativePath />
+        <relativePath/>
     </parent>
     <groupId>com.datatheorem.mobileappsecurity.jenkins.plugin</groupId>
     <artifactId>datatheorem-mobile-app-security</artifactId>
@@ -120,7 +120,7 @@
         <dependency>
             <groupId>org.easymock</groupId>
             <artifactId>easymock</artifactId>
-            <version>4.0.2</version>
+            <version>4.2</version>
         </dependency>
         <dependency>
             <groupId>com.googlecode.json-simple</groupId>
